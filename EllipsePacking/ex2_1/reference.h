@@ -1,0 +1,20 @@
+#define MAX_VELOCITY 40
+#define LEAST_RATIO 5
+#define MAX_RATIO 10
+#define UNIT_INTERVAL 0.001
+#define DECAY 0.9
+#define JAMMED_TIME 3
+#define EPSILON 1
+#define MAX_MOVING_VEC 200
+#define MIN_LONG_TO_SHORT 2
+#define MAX_LONG_TO_SHORT 5
+#define INFINITE 10000
+#define DIVIDE_RATIO 0.61803399		// (sqrt(5)-1)/2
+#define SLOPE_NUMBER 1000
+#define INTERVAL_TOL 1e-6
+#define MIN_SHORT_AXIS 1
+#define MIN_SHORT_AXIS_COLLISION 5
+#define EPSILON_SLOPE 1e-6
+#define PRICISE_TOL 1e-6
+#define PARTICLE_NUM 20
+#define DELTA_K 1e-3
